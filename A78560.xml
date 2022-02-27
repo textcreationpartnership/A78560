@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Chancellors examination &amp; preparation for a trial As the long imprisonment of George Lord Jefferys late High Chancellor of England, has given him ample leisure for a full and serious consideration of his state, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78560</idno>
+            <idno type="STC">Wing C1925A</idno>
+            <idno type="STC">ESTC R227744</idno>
+            <idno type="EEBO-CITATION">99895260</idno>
+            <idno type="PROQUEST">99895260</idno>
+            <idno type="VID">152620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2309:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Chancellors examination &amp; preparation for a trial As the long imprisonment of George Lord Jefferys late High Chancellor of England, has given him ample leisure for a full and serious consideration of his state, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Cademan,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>A satire on Lord Jeffreys in the form of a last will and testament.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="examination">
+            <pb facs="tcp:152620:1" rendition="simple:additions"/>
+            <head>THE Chancellors Examination &amp; Preparatio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> FOR A TRIAL.</head>
+            <p>
+               <hi>As the long Impriſonment of</hi> George <hi>Lord</hi> Jefferys <hi>late High Chancellor of</hi> England, <hi>has given him ample leiſure for a full and ſerious Confideration of his ſtate, his Examination of his fatal Circumſtances and Prepa<g ref="char:EOLhyphen"/>ration for his Trial, with all other neceſſary and due Re<g ref="char:EOLhyphen"/>flections, previous as well to the Appearance not only be<g ref="char:EOLhyphen"/>fore ſo great a Tribunal here, but alſo a greater and more terrible one to come, have induced him to this timely pro<g ref="char:EOLhyphen"/>viſion of his Liſt Will and Teſtament.</hi>
+            </p>
+            <p>
+               <hi>In the Name of</hi> AMBITION, <hi>the only God of our own ſetting up and worſhipping, together with</hi> Cruelty, Treachery, Perjury, Pride, Inſolence &amp;c. <hi>his ever-adored Angels and Archangels, cloven<g ref="char:EOLhyphen"/>footed, or otherwiſe,</hi> Amen.</p>
+            <p>I <hi>George,</hi> ſometimes Lord, but alwaies <hi>Jeffrys,</hi> be<g ref="char:EOLhyphen"/>ing in intire bodily Health, (my once great Heart at preſent dwindled to the Diminutive Dimenſions of a French Bean, only excepted) and in ſound and perfect Memory of High Commiſ<g ref="char:EOLhyphen"/>ſions, <hi>Quo Warranto</hi>'s, Regulations, Diſpenſations, Pillorizations, Flaugations, Gibbetations, Barbarity, Butchery, Tyranny, together with the Bonds and Tyes of Right, Juſtice, Equity, Law, and Goſpel; as alſo thoſe of Liberty, Property, <hi>Magna Charta, &amp;c.</hi> not only at diverſe and ſundry, but at all times by me Religiouſly broken; and being reminded by a Halter before me, and my Sins behind me, do make my laſt Will and Teſtament in manner and form following.</p>
+            <p>
+               <hi>Imprimis,</hi> Becauſe it has alwaies been the modiſh Departure of Great Men and Greater Sinners, to leave ſome Legacy to pious Uſes, I give and bequeath 1000<abbr>
+                  <hi>l.</hi>
+               </abbr> towards the building of a Shrine and a Chap<g ref="char:EOLhyphen"/>pel to St. <hi>Coleman,</hi> for the particular Devotion of a late very great Engliſh Zealot, for whoſe Glory I farther order my Executors to bear half charges in inſerting and regiſtring the ſacred <hi>Papers</hi> and <hi>Me<g ref="char:EOLhyphen"/>moirs</hi> of the ſaid Saint, in thoſe Divine Legends <hi>The Lives of the Saints,</hi> by the Hand of his reverend and no leſs induſtrious Succeſſor Father <hi>Peters;</hi> that ſo the never-dying Renown of the long-ſwore merito<g ref="char:EOLhyphen"/>rious (tho' unfortunate) Vengeance againſt the <hi>Nor<g ref="char:EOLhyphen"/>thern</hi> Hereſie, (in which once-hopeful Vineyard I have been no ſmall Labourer) may be tranſmitted to poſterity by ſo pious a Recorder.</p>
+            <p>
+               <hi>Item.</hi> As a Legacy to her late Conſort-Majeſty of <hi>Creat Britain,</hi> my ſometimes Royal Patroneſs, I do bequeath 3000 Crowns to Holy Mother Church, to purchaſe through his Holineſs, and the good Lady of <hi>Loretto</hi>'s Interceſſion, the ſame Benediction to the French Waters of <hi>Spaw,</hi> they once vouchſafed to the Engliſh ones of <hi>Bath,</hi> to give her Majeſty the Con<g ref="char:EOLhyphen"/>ception of a Duke of <hi>York</hi> to her Prince of <hi>Wales;</hi> humbly with my dying breath requeſting, for the fu<g ref="char:EOLhyphen"/>ture ſilencing of Malice and confutation of Infideli<g ref="char:EOLhyphen"/>ty, that her ſaid Majeſty would in due prudence gra<g ref="char:EOLhyphen"/>ciouſly pleaſe to ſelect out for her next Labour, but half as able Witneſſes and <hi>reeking</hi> Spectators of her Delivery as my ſelf, there being in her late caſe no perſon in the World a more experimentally ſubſtan<g ref="char:EOLhyphen"/>tial Evidence of a Male Child born of the body of a Queen, at full growth at 8 months; when 'tis ſo no<g ref="char:EOLhyphen"/>toriouſly known, that my own firſt Female Child <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Wifes was at the like full growth born at 5 mo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Item,</hi> In tenderneſs and hearty good-will to m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſometimes-Friends and Allies on the other ſide, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Herring-pond, I think ſit (as a ſmall Mite to the grea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cauſe) to order my Executors out of my late Son-in law's Eſtate, ſaved by my own <hi>Chancery</hi> Decree from the <hi>Salisbury Creditors,</hi> as much Money to be re<g ref="char:EOLunhyphen"/>mitted over to the true and truſty <hi>Tyrconnel,</hi> as wil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purchaſe new Liveries of the beſt <hi>Iriſh</hi> Frieze, com<g ref="char:EOLunhyphen"/>pleatly to rig a whole Regiment of his new rais'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Leagues; as alſo the like quantity for the riggin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of another Regiment of French Dragoons, now ſen<g ref="char:EOLunhyphen"/>ding over to his Excellencies ſuccour; his Gallic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty having long ſince ordered the Edict of <hi>Nant</hi> and all other the parliamentary Heretick Records of <hi>France</hi> to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> given 'em <hi>gratis,</hi> to make 'em Taylors meaſure or, in imitation of the Engliſh <hi>Magna Char<g ref="char:EOLhyphen"/>ta,</hi> ſome time ſince deſigned for the ſame uſe.</p>
+            <p>But above all, to take Care for my own De<g ref="char:EOLhyphen"/>cent Funeral, leſt my <hi>Executors,</hi> to Save the charges of Chriſtian burial, ſhould drop me under Ground, as ſlovenly as my, old great Maſter, at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſier,</hi> I think fit to order the Rites and Ceremo<g ref="char:EOLhyphen"/>nies of my Obſequies, as follows:</p>
+            <p>
+               <hi>Imprimis,</hi> I deſire that my Funeral Anthems be all ſet to the Tune of old <hi>Lilli burlero,</hi> that never to be forgotten <hi>Iriſh Shiboleth,</hi> in Commemoration not on<g ref="char:EOLhyphen"/>ly of 200000 Hereticks, that formerly Danced off to the ſaid Muſical Notes, but alſo of the ſecond part to the ſame tune, lately deſigning, ſetting, and com<g ref="char:EOLhyphen"/>poſing by a Great Maſter of mine, and my ſelf. The ſaid Anthem to be Sung by a train of ſeven or eight hundred Orphans of my own making in the <hi>Weſt;</hi> who in their native Raggs (a Livery likewiſe of my own Donation) as a Dreſs fitteſt for the ſad Caval<g ref="char:EOLhyphen"/>cade, will (I am aſſured) be no way wanting in their readieſt and ableſt Melody, ſuitable to the occaſion.</p>
+            <p>
+               <hi>Item,</hi> I order 200 <hi>Jacobuſſes</hi> to be laid out in Myrrh Frankincenſe, and other neceſſary Perſumes, to be burnt at my Funeral, to ſweeten, if poſſible, ſome little ſtink, I may probably leave behind me.</p>
+            <p>
+               <hi>Item,</hi> I order an Ell and half of fine Cambrick to be cut out into Handkerchers, for drying up all the wet Eyes at my Funeral, together with half a pint of burnt Claret, for all the Mourners in the Kingdom.</p>
+            <p>
+               <hi>Item,</hi> for the more Decent Interrment of my Re<g ref="char:EOLhyphen"/>mains, I Will and Require, for the Re-cementing of my unhappy politick Head to my Shoulders again, (provided always I have the honour of the Axe, as tis much queſtioned) that a preſent of a Diamond Ring be made to Madam <hi>Labadie,</hi> for the uſe of the ſame Needle, and a Skean of the ſame Thred, once uſed on a very important occaſion, for the Quilting of a certain notable Cuſhion of Famous Memory.</p>
+            <p>To conclude. For avvoyding all Chancery Suits about the Diſpoſal of my aforeſaid Legacies, that the Contents of this my Laſt Will may be made pub<g ref="char:EOLhyphen"/>lick, I order my <hi>Executors</hi> to take care that <hi>This may be Printed.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. Cademan,</hi> 1689.</p>
+            <pb facs="tcp:152620:2" rendition="simple:additions"/>
+            <pb facs="tcp:152620:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
